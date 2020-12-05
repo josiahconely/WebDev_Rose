@@ -720,6 +720,7 @@ a {
     position: relative;
   }
   .w3-hide-small {
+    color: black;
     display: none !important;
   }
   .w3-mobile {
@@ -1099,6 +1100,7 @@ a {
   font-size: 48px !important;
 }
 .w3-jumbo {
+  color: black;
   font-size: 64px !important;
 }
 .w3-left-align {
